@@ -8,6 +8,7 @@ while True:
         print('Você não digitou um número.')
         continue
 
+
     fatorial = 1
     conta = 1
 
